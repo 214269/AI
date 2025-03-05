@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-printf("This is a test.")
+printf("This is a test.");
+cout<<"This is a test."<<endl;
 return 0;
 }
